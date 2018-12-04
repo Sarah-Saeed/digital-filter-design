@@ -14,4 +14,4 @@ The experiment is concerned with the design and implementation of the following 
 - Window FIR
   - Kaiser
   - Parks-McClellan optimal
-  - Polyphase
+  - Polyphase implementation
