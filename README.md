@@ -1,10 +1,6 @@
 # digital filter design
 
-This project is based on the "
-
-[sap-voicebox]: https://github.com/ImperialCollegeLondon/sap-voicebox	"sap-voicebox"
-
-" repository.
+This project is based on the "[sap-voicebox](https://github.com/ImperialCollegeLondon/sap-voicebox)" repository.
 
 ---
 
